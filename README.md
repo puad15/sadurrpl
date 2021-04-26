@@ -1,2 +1,2 @@
 # sadurrpl
-berisi saduran mata kuliah Analisa Perancangan PL
+berisi saduran mata kuliah Analisa dan Perancangan PL
